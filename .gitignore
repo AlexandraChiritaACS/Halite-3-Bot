@@ -1,0 +1,13 @@
+*.DS_Store
+.classpath
+.project
+.settings/
+.vscode/
+*.log
+bin/
+target/
+/halite
+/halite.exe
+replays/**/*.hlt
+replays/f-logs/*.json
+plots/*
